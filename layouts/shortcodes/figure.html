@@ -1,0 +1,5 @@
+{{ $class := .Get "class" }}
+<figure {{ with .Get "title" }}class="wp-caption {{ $class }}"{{ else }}class="{{ $class }}"{{ end }}>
+  {{ .Inner }}
+  {{ with .Get "title" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>

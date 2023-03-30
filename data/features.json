@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Relaciones públicas",
+    "description": "Manejamos X y Y y todo de mas",
+    "icon": "fa fa-podcast"
+  },
+  {
+    "title": "Eventos",
+    "description": "Organizamos su evento profesionalmente",
+    "icon": "fa fa-users"
+  },
+  {
+    "title": "Contactanos",
+    "description": "Contactanos para recibir mas informaciones",
+    "icon": "fa fa-envelope",
+    "link": "mailto:nubedeideas.rp@gmail.com"
+  }
+]
