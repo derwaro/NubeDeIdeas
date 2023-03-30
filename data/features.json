@@ -1,17 +1,17 @@
 [
   {
-    "title": "Relaciones públicas",
-    "description": "Manejamos X y Y y todo de mas",
+    "title": "Relaciones Públicas",
+    "description": "Estrategias y difusión de imagen",
     "icon": "fa fa-podcast"
   },
   {
-    "title": "Eventos",
-    "description": "Organizamos su evento profesionalmente",
+    "title": "Conferencias de Prensa",
+    "description": "Lanzamientos de nuevos productos",
     "icon": "fa fa-users"
   },
   {
-    "title": "Contactanos",
-    "description": "Contactanos para recibir mas informaciones",
+    "title": "Contáctanos",
+    "description": "Contáctanos para recibir mas informaciones",
     "icon": "fa fa-envelope",
     "link": "mailto:nubedeideas.rp@gmail.com"
   }

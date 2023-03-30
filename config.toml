@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['quienessomos']
+  mainSections = ['blog']
 
   googleFonts = true
 
@@ -38,7 +38,7 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "Agencia de Relaciones Públicas"
+    meta_description = "Prensa y Relaciones Públicas"
     meta_og_title = "Nube de Ideas"
     meta_og_type = "website"
     meta_og_url = "https://nubedeideas.net"
@@ -69,16 +69,22 @@ enableRobotsTXT = true
     weight = 3
 
   [[menu.main]]
-    identifier = "portfolio"
-    name = "Portfolio"
-    url = "/portfolio/"
+    identifier = "portafolio"
+    name = "Portafolio"
+    url = "/portafolio/"
     weight = 4
+
+  [[menu.main]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/blog/"
+      weight = 5
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
   # Footer Menu
   [[menu.footer]]
@@ -87,8 +93,8 @@ enableRobotsTXT = true
       weight = 1
 
   [[menu.footer]]
-    name = "Twitter"
-    url = "https://twitter.com"
-    pre = "<i class='icon-twitter text-2xl'></i>"
+    name = "Instagram"
+    url = "https://www.instagram.com/nubedeideas_oficial/"
+    pre = "<i class='fa-brands fa-instagram text-2xl'></i>"
       weight = 2
 

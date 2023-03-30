@@ -1,5 +1,5 @@
 ---
-title: "¿Que hacemos?"
+title: "¿Qué hacemos?"
 date: 2023-01-26T11:18:59-06:00
 draft: false
 ---
