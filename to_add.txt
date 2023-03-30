@@ -8,3 +8,6 @@ pag 10, 11
 
 agregar las marcas en el portafolio
 
+quienes somos
+agregar historia personal y quitar la linea de los festivales
+
