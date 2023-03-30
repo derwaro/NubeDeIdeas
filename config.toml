@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://nubedeideas.net"
 title = "Nube de Ideas"
 author = "ndi"
 languageCode = "es"
@@ -38,10 +38,10 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_description = "Agencia de Relaciones Públicas"
     meta_og_title = "Nube de Ideas"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://nubedeideas.net"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     meta_twitter_card = "summary_large_image"
@@ -91,4 +91,4 @@ enableRobotsTXT = true
     url = "https://twitter.com"
     pre = "<i class='icon-twitter text-2xl'></i>"
       weight = 2
-  
+
