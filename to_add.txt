@@ -6,8 +6,14 @@ artistas
 de NUBE DE IDEAS pressentacion.pdf
 pag 10, 11
 
-agregar las marcas en el portafolio
+agregar LIGAS a las marcas en el portafolio
 
 quienes somos
 agregar historia personal y quitar la linea de los festivales
+
+PRENSA
+index: prensa statt blog, link zu /prensa, nicht /blog
+Fotos auf index
+Fotos auf /prensa
+
 

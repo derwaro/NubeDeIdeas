@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blog']
+  mainSections = ['prensa']
 
   googleFonts = true
 
@@ -52,13 +52,13 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "quienessomos"
-    name = "Quienes Somos"
+    name = "Quiénes Somos"
     url = "/quienessomos/"
     weight = 1
 
   [[menu.main]]
     identifier = "quehacemos"
-    name = "Que Hacemos"
+    name = "Qué Hacemos"
     url = "/quehacemos/"
     weight = 2
 
@@ -75,9 +75,9 @@ enableRobotsTXT = true
     weight = 4
 
   [[menu.main]]
-      identifier = "blog"
-      name = "Blog"
-      url = "/blog/"
+      identifier = "prensa"
+      name = "Prensa"
+      url = "/prensa/"
       weight = 5
 
   [[menu.main]]
