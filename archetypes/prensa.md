@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-thumbnail: /img/artistas/rosyarango.jpg
+thumbnail: /img/prensa/.png
 description: ""
-image: "/img/artistas/rosyarango.jpg"
+image: "/img/prensa/.png"
 ---
 
